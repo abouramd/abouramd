@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 <!-- real time -->
 <!-- ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) -->
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abouramd&data=repositories,commits&theme=darkmode)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,c,bash,markdown&tools=git&software=linux,windows,vscode&theme=darkmode)
+![abouramd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abouramd&theme=github-compact)
