@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 **abouramd/abouramd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <!-- real time -->
 <!-- ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) -->
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abouramd&data=repositories,commits&theme=darkmode)
