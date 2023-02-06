@@ -9,5 +9,3 @@
 ### ✍️ LeetCode stats
 ![abouramd's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abouramd&theme=dark)
 
-
-<img src="https://raw.githubusercontent.com/abouramd/abouramd/blob/output/snake.svg" alt="Snake animation" />
