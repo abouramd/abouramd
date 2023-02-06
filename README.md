@@ -4,3 +4,5 @@
 <!-- ![](https://github-widgetbox.vercel.app/api/skills?languages=python,c,bash,markdown&tools=git&software=linux,windows,vscode) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ LeetCode stats
+![abouramd's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abouramd&theme=dark)
