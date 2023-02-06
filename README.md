@@ -7,5 +7,5 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ### ✍️ LeetCode stats
-![abouramd's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abouramd&theme=dark)
+[![abouramd's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abouramd&theme=dark)](https://leetcode.com/abouramd/)
 
