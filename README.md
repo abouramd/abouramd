@@ -8,8 +8,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abouramd&theme=github-compact" alt="abouramd's github activity graph" width="80%"/>
     <br clear="both">
     <img src="https://leetcode-stats-six.vercel.app/?username=abouramd&theme=dark"  alt="abouramd's LeetCode stats"width="80%"/>
-    <br clear="both">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&username=abouramd" alt="stats graph"  width="80%"/>
+    <!-- <br clear="both">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&username=abouramd" alt="stats graph"  width="80%"/> -->
     <!-- <br clear="both">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=20&theme=chartreuse-dark&hide_border=true&username=abouramd" alt="languages graph"  width="80%"/> -->
     <br clear="both">
