@@ -3,7 +3,7 @@
     <br clear="both">
     <img src="./github-header-image.png"  width="80%"/>
     <br clear="both">
-    <img src="https://badge.mediaplus.ma/greenbinary/abouramd"  alt="abouramd's 42 stats"width="80%"/>
+    <img src="https://badge42.vercel.app/api/v2/clbh2pgo200060fmkxj4zd53l/stats?cursusId=21&coalitionId=79"  alt="abouramd's 42 stats"width="80%"/>
     <br clear="both">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abouramd&theme=github-compact" alt="abouramd's github activity graph" width="80%"/>
     <br clear="both">
