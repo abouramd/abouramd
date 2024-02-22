@@ -4,7 +4,11 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
+
+<div align="center">
+  <img src="https://badge.mediaplus.ma/binary/abouramd" alt="abouramd's 42 stats" />
+</div>
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=abouramd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
@@ -15,13 +19,13 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img src="https://raw.githubusercontent.com/abouramd/abouramd/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
