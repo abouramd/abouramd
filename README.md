@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/abouramd/abouramd/output/snake.svg" alt="Snake animation" />
   </div>
   <div>
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,lua,docker,js,html,css,git,redis,vim&theme=dark" />
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,lua,docker,js,html,css,git,redis,vim,prisma,nodejs,express&theme=dark" />
   </div>
   <div
     <img src="https://profile-counter.glitch.me/abouramd/count.svg?"  />
