@@ -3,8 +3,8 @@
 
 ┌──┤ ABOUT ME ├─────────▰▰▰
 │
-├─▣ Hi there 👋! I'm **Abdelhay Bouramdane**, a passionate **Software Developer** who loves turning ideas into reality
-│ through code.
+├─▣ Hi there 👋! I'm **Abdelhay Bouramdane**.
+├─▣ A passionate **Software Developer** who loves turning ideas into reality through code.
 ├─▣ I specialize in full-stack development, solving complex problems, and building scalable applications.
 │
 └───────────────────────────────▰▰▰
