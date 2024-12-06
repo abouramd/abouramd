@@ -31,7 +31,7 @@
 
 ┌──┤ SOCIAL ├────────────▰▰▰
 │
-├─▣ <a href="mailto:abdelhaybouramdane@gmail.com">Email</a>
+├─▣ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdelhaybouramdane@gmail.com">Email</a>
 ├─▣ <a href="https://github.com/abouramd">GitHub</a>
 ├─▣ <a href="https://linkedin.com/in/abouramd">LinkedIn</a>
 ├─▣ <a href="https://leetcode.com/u/abouramd/">Leetcode</a>
