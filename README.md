@@ -33,6 +33,7 @@
 │
 ├─▣ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdelhaybouramdane@gmail.com" target="_blank">Email</a>
 ├─▣ <a href="https://github.com/abouramd" target="_blank">GitHub</a>
+├─▣ <a href="https://discord.com/users/874648111744692285" target="_blank">Discord</a>
 ├─▣ <a href="https://linkedin.com/in/abouramd" target="_blank">LinkedIn</a>
 ├─▣ <a href="https://leetcode.com/u/abouramd/" target="_blank">Leetcode</a>
 ├─▣ <a href="https://codingame.com/profile/a02769bc923e885e36be2e1367d86d645638184" target="_blank">CodinGame</a>
