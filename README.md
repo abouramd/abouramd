@@ -39,4 +39,10 @@
 ├─▣ <a href="https://codingame.com/profile/a02769bc923e885e36be2e1367d86d645638184" target="_blank">CodinGame</a>
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ LeetCode Stats ├────────────▰▰▰
+│
+  <img src="https://leetcard.jacoblin.cool/abouramd?theme=nord&font=Darker%20Grotesque&ext=heatmap"></img>
+│
+└───────────────────────────────▰▰▰
 </pre>
